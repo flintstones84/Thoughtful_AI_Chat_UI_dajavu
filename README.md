@@ -1,7 +1,5 @@
 # Dejavu AI Assistant: Revolutionizing Your Conversation Experience
 
-![Dejavu Banner](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=modern%20chat%20interface%20with%20multiple%20tabs%20and%20sidebar%20showing%20conversation%20history%2C%20professional%20UI%20design%2C%20blue%20and%20purple%20color%20scheme&image_size=landscape_16_9)
-
 ## 🚀 Welcome to the Future of AI Conversations
 
 Dejavu is not just another chat application—it's a comprehensive AI assistant platform designed to elevate your conversation experience to new heights. With its intuitive interface, powerful features, and intelligent memory management, Dejavu transforms how you interact with AI models.
